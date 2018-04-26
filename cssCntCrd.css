@@ -1,0 +1,48 @@
+form{
+    display: block;
+    width: 260px;
+    padding-left: 18px;
+}
+button{
+    width: 80px;
+    position: relative;
+    left: 100px;
+   
+}
+form p,textarea{
+    position: relative;
+    
+    
+}
+form input{
+    margin-bottom: 10px;
+    
+}
+textarea{
+    width: 244px;
+}
+
+div{
+   
+    display: inline-block;
+}
+body{
+    display: inline-block;
+    
+}
+#right{
+    vertical-align: top;
+    width: 359px;
+    height: 500px;
+    margin-left: 100px;
+}
+#cntCrd{
+    width: 300px;
+    height: 75px;
+    background-color: yellow;
+    border: 2px solid;
+    text-align: center;
+}
+#cntCrd p{
+    text-align: left;
+}
